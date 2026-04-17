@@ -1,0 +1,3 @@
+## How It Works
+
+The tool uses the psutil Python library to retrieve real-time system metrics such as CPU usage, memory consumption, and disk utilization. These metrics are collected and displayed in a simple format to help identify performance issues and support basic system diagnostics.
